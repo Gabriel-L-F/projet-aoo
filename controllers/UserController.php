@@ -1,4 +1,7 @@
 <?php
+require __DIR__ . '/../views/users/login.php';
+require __DIR__ . '/../views/users/register.php';
+require __DIR__ . '/../views/users/index.php';
 
 class UserController {
 
